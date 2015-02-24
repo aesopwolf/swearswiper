@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "async-arrays": "^0.3.0",
+    "async-objects": "^0.1.0",
     "card-swipe": "0.1.0-beta",
     "stripe": "^3.3.0"
   }
